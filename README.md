@@ -31,9 +31,9 @@ Run the code and if you want you can use it as the base for future projects. It'
 
 ## What I used
 - Flask (Flask is a simple Python web framework.)
-- Python 3 (Because while prevalent Python 2 should not be used for active dev)
+- Python 3 (Because while prevalent, Python 2 should not be used for active dev)
 - Pre-configured redis container (Why re-invent the wheel for a demo)
-- Docker (because containers. Though makeing a k8s manifest would be an interesting adventure but overkill for this)
+- Docker (because containers. Though makeing a k8s manifest would be an interesting adventure, it would be  overkill for this)
 
 
 Thanks for looking. 
