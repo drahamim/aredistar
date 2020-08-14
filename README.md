@@ -1,4 +1,6 @@
-# A Star
+# ARediStar
+Pronounced like "A Register" but D instead of G and Star instead of Ster.
+
 A basic Flask/Redis app that produces a string.
 
 
